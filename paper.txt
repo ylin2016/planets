@@ -2,6 +2,13 @@ Title: A noice paper about lonely mars
 
 Add a few words for submit
 
+Create new repository on GitHub first
+
+git clone https://github.com/ylin2016/planets.git
+
+get same things under local storage.
+Then create file, save, then sync to github use the following cmd: 
+
 To update a paper:
 
 git add file
