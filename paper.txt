@@ -1,3 +1,9 @@
 Title: A noice paper about lonely mars
 
 Add a few words for submit
+
+To update a paper:
+
+git add file
+git commint -m "Add pipeline for update a file"
+git push
